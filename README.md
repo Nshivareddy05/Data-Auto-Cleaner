@@ -14,7 +14,7 @@ How It Works
 3️.Automatically clean and preprocess the data
   .Save the cleaned and encoded dataset in a preferred format
 
-Installation & Usage 
+Installation & Usage ->
 from auto_clean_data import Auto_Clean_Data
 
 cleaner = Auto_Clean_Data("dataset.csv")
