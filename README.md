@@ -1,7 +1,7 @@
 # Data-Auto-Cleaner
 
 AutoCleanData An automated data preprocessing and cleaning tool for various file formats, including CSV, Excel, JSON, SQLite, MySQL, PostgreSQL, and more.
-Features 🚀
+Features 
 ✔️ Supports multiple file formats (CSV, Excel, JSON, SQL, Parquet, etc.)
 ✔️ Handles missing values using KNN and Iterative Imputation
 ✔️ Detects and removes duplicate entries
