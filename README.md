@@ -8,13 +8,13 @@ Features
 ✔️ Encodes categorical variables using Label Encoding
 ✔️ Saves cleaned and encoded datasets in multiple formats
 
-How It Works ⚡
-1️⃣ Load a dataset by providing its path
-2️⃣ Perform an initial data analysis (missing values, total entries, etc.)
-3️⃣ Automatically clean and preprocess the data
-4️⃣ Save the cleaned and encoded dataset in a preferred format
+How It Works 
+1️. Load a dataset by providing its path
+2️.Perform an initial data analysis (missing values, total entries, etc.)
+3️.Automatically clean and preprocess the data
+  .Save the cleaned and encoded dataset in a preferred format
 
-Installation & Usage 🛠️
+Installation & Usage 
 from auto_clean_data import Auto_Clean_Data
 
 cleaner = Auto_Clean_Data("dataset.csv")
