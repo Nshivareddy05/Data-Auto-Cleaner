@@ -29,5 +29,5 @@ scikit-learn
 matplotlib
 sqlite3, pymysql, psycopg2 (for database support)
 
-Contributions 🤝
+Contributions 
 Feel free to contribute, report issues, or suggest improvements!
