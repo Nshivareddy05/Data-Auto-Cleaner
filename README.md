@@ -22,7 +22,7 @@ data = cleaner.read_file()
 cleaned_data, encoded_data = cleaner.clean_data()
 cleaner.save_data("output_directory/")
 
-Dependencies 🏗️
+Dependencies 
 pandas
 numpy
 scikit-learn
