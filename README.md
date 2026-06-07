@@ -8,7 +8,7 @@ Features
 ✔️ Encodes categorical variables using Label Encoding
 ✔️ Saves cleaned and encoded datasets in multiple formats
 
-How It Works 
+How It Works \
 1️. Load a dataset by providing its path
 2️.Perform an initial data analysis (missing values, total entries, etc.)
 3️.Automatically clean and preprocess the data
