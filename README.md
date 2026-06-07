@@ -16,6 +16,7 @@ How It Works \
   .Save the cleaned and encoded dataset in a preferred format
 
 Installation & Usage ->
+
 from auto_clean_data import Auto_Clean_Data
 
 cleaner = Auto_Clean_Data("dataset.csv")
